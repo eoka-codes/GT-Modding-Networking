@@ -11,8 +11,7 @@ A simple and single-file library for creating networked mods for Gorilla Tag. Th
 ## Installation
 
 1. Download the `NetworkingLib.cs` file.
-2. Place it in your Gorilla Tag mod directory under `BepInEx/plugins`.
-3. Reference the library in your mod project.
+2. Place it in your project.
 
 ## Usage
 
